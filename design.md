@@ -15,3 +15,11 @@ you should not inspect an object and based on it's state make a decision about w
 tell don't ask vs single responsibility
 
 build small pieces that do cohesive things
+
+
+tell don't ask
+pulling information out of the object and then doing something to the object.
+- ask with mutation
+- ask without mutation
+- tell with mutation
+- tell without mutation

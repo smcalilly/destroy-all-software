@@ -1,0 +1,10 @@
+ctrl + p is up
+ctrl + n is down
+ctrl + b is left
+ctrl + f is right
+this is line one.
+this is line two
+
+
+
+this is another one further down.
